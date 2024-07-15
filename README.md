@@ -7,11 +7,13 @@ To use this software, you just need to gather individuals mapped against a chrom
 
 Thus, you will need 3 different files with different extensions:
 
+
 _"*.012" -> This file contains your genotypes for each individual inlcuded into the analysis_
 
 _"*.012.indv" -> This file contains the labels for your individuals_
 
 _"*.012.pos" -> This file contains the position of all your SNPs_
+
 
 Copy the script **"Detect_Inversions.R"** into your R terminal, and modify the working directory and filenames to be uploaded. After that, just run it.
 
