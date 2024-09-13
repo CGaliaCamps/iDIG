@@ -1,4 +1,4 @@
-# Detect_Inversions
+# iDIG: Individual Detection of Inversions by Genotype
 Our new approach of plotting individual genotypes along the genome greatly facilitates the detection of chromosome inversions, allowing the identification of individual-level presence of inversions, each inversion breaking points, and chromosome-inversion specific karyotype, all at once.
 
 # Usage
