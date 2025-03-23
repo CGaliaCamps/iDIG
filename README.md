@@ -1,5 +1,5 @@
-# iDIG: Individual Detection of Inversions by Genotype
-Our new approach of plotting individual genotypes along the genome greatly facilitates the detection of chromosome inversions, allowing the identification of individual-level presence of inversions, each inversion breaking points, and chromosome-inversion specific karyotype, all at once.
+# iDlG: individual Detection of linkage by Genotyping
+Our new approach of plotting individual genotypes along the genome greatly facilitates the detection of chromosome inversions, allowing the identification of individual-level presence of inversions, their area of influence, and chromosome-inversion specific karyotype, all at once.
 
 # Usage
 To use this software, you just need to gather individuals mapped against a chromosome-level reference genome and their genotypes in 012 format. 
