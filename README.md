@@ -15,7 +15,7 @@ _"*.012.indv" -> This file contains the labels for your individuals_
 _"*.012.pos" -> This file contains the position of all your SNPs_
  
 
-Copy the script **"Detect_Inversions.R"** into your R terminal, and modify the working directory and filenames to be uploaded. After that, just run it.
+Copy the script **"iDlG.R"** into your R terminal, and modify the working directory and filenames to be uploaded. After that, just run it.
 
 # Citation
 Please, if you found this script useful cite:
